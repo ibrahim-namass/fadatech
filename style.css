@@ -1,0 +1,15 @@
+.bandeverte
+{
+    height: 5px;
+}
+#picture
+{
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url(tech.jpg)center/cover no-repeat;
+
+}
+
+
+.kk
+{
+    background-color: rgba(128, 128, 128, 0.8);
+}
